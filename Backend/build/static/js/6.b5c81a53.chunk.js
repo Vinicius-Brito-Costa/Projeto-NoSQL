@@ -1,0 +1,2 @@
+(this["webpackJsonpprojeto-novo"]=this["webpackJsonpprojeto-novo"]||[]).push([[6],{72:function(e,t,o){"use strict";o.r(t),t.default=o.p+"static/media/Matrix.251b85ca.mp4"},74:function(e,t,o){"use strict";o.r(t),o.d(t,"default",(function(){return n}));var i=o(1);function n(){return Object(i.jsx)("video",{loop:!0,autoPlay:!0,playsInline:!0,muted:!0,className:"video",id:"indexVideo",children:Object(i.jsx)("source",{src:o(72).default,type:"video/mp4"})})}}}]);
+//# sourceMappingURL=6.b5c81a53.chunk.js.map

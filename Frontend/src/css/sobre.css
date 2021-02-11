@@ -1,0 +1,18 @@
+.conteudo-sobre{
+    padding-top: 80px;
+    padding-bottom: 0;
+}
+.img-fundo{
+    background-image: url("../imagens/about/fundo1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.img-fundo h1{
+    background-color: rgba(0, 0, 0, 0.76);
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    font-size: 13vw;
+}

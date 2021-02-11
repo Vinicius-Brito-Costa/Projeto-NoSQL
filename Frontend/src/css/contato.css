@@ -1,0 +1,28 @@
+main{
+    min-height: 100vh;
+}
+.conteudo-contato{
+    padding-top: 150px;
+    padding-bottom: 0;
+}
+.input-contato{
+    background-color: rgba(255, 255, 255, 0.301);
+    border: none;
+    border-radius: 0 0 10px 0;
+
+}
+.input-contato:focus{
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+.input-contato:active{
+    outline: none;
+    border: none;
+    box-shadow: none;
+    background-color: rgba(255, 255, 255, 0.301);
+}
+.input-contato::placeholder{
+    color: white;
+    opacity: .7;
+}

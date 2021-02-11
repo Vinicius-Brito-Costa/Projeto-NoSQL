@@ -1,0 +1,62 @@
+main {
+    padding-top: 100px;
+    min-height: auto;
+}
+.conteudo-produto{
+    padding-top: 80px;
+    padding-bottom: 0;
+}
+.valor-antigo{
+    font-size: .7rem;
+}
+.valor-antigo p{
+    margin: 0;
+    padding: 0;
+    display: inline;
+    font-size: .9rem;
+}
+.valor-unidade{
+    font-size: 1.4rem;;
+}
+.economize{
+    font-size: .8rem;
+}
+.economize p{
+    margin: 0;
+    padding: 0;
+    padding-left: .2rem;
+    font-size: .9rem;
+}
+.valor-frete{
+    font-size: .8rem;
+}
+.valor-parcelado p{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+.quantidade{
+    font-size: 1.2rem;
+}
+.valor-total{
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 0;
+    margin-bottom: -10px;
+}
+.frete-mensagem{
+    margin: 0;
+    font-size: .8rem;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
